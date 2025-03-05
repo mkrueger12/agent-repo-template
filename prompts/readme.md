@@ -1,0 +1,1 @@
+This directory houses all the prompts used for the agent. The prompts should be stored as yaml files or [Instructor](https://github.com/instructor-ai/instructor) models.
